@@ -1,2 +1,2 @@
 # Superstore
-This a real time data analysis project
+This a real time data analysis project based on superstore dataset
